@@ -1,6 +1,6 @@
 # AWS CloudWatch Monitoring Dashboard
 
-This is a simple beginner project that helped me understand how to use AWS CloudWatch to monitor services like EC2, S3, and RDS. I used Python and the AWS CLI to create a dashboard that shows CPU usage, storage size, and database connections.
+This is a simple project that helped me understand how to use AWS CloudWatch to monitor services like EC2, S3, and RDS. I used Python and the AWS CLI to create a dashboard that shows CPU usage, storage size, and database connections.
 
 ## What This Project Does
 
