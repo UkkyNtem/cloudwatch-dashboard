@@ -49,7 +49,7 @@ Dashboards provide a simple and visual way to monitor cloud resources in real ti
 - Understand how different services behave together
 - Make better decisions based on clear data
 
-CloudWatch dashboards are especially helpful for beginners because they offer instant feedback on how your services are running.
+CloudWatch dashboards are especially helpful because they offer instant feedback on how your services are running.
 
 ## What I Learned
 
